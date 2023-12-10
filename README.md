@@ -1,1 +1,1 @@
-# 1.MetalBasics
+If you want to use this from terminal with swift run/build commands, you have to first run buildMetal.sh script to compile metal files. If you try to run it again from XCode you have to remove generated files from Metal/ directory
